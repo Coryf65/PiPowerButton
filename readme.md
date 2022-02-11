@@ -10,3 +10,11 @@
 - Push buttons with Python for RPi [here](https://www.youtube.com/watch?v=YICzRCAY73Y)
 - Way of the Wrench [here](https://www.youtube.com/watch?v=EWlRwWt2rNc)
 - ETAPrime [here](https://www.youtube.com/watch?v=4nTuzIY0i3k)
+
+## Python
+
+1. install pip modules
+
+    ```ps
+    python -m pip install numpy
+    ```
