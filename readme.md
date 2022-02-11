@@ -18,3 +18,5 @@
     ```ps
     python -m pip install numpy
     ```
+
+2. needs to run on startup, could use cron or setup a deamon
