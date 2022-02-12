@@ -10,7 +10,6 @@ gpio_number = 22
 # Define number of seconds to hold the button for
 hold_time = 6
 
-
 def buttonHeld():
   print("Button pressed for "+ str(hold_time) +" seconds")
   check_call(['sudo', 'poweroff'])
