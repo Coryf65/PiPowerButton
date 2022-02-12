@@ -7,6 +7,7 @@ curl -O https://raw.githubusercontent.com/Coryf65/PiPowerButton/master/cory_butt
 
 if [ ! -d "/usr/local/bin" ]; then
     sudo mkdir -p /usr/local/bin
+fi
 
 echo "Setting up..."
 echo "Making script executable"
