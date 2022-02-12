@@ -36,3 +36,5 @@ python -m pip install numpy
     - When Raspberry Pi is powered off, shortening GPIO3 (Pin 5) to ground will wake the Raspberry Pi.
 
     - This script uses pin GPIO3(5), Ground(6) with momentary button.
+
+![gpio_layout](https://user-images.githubusercontent.com/20805058/153695237-13bb03dc-27cd-462e-8473-b3e62e0c5db4.jpg)
